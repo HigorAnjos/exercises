@@ -9,4 +9,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Desenvolvimento Front-end 
 
+## Desenvolvimento Back-end
+
 ## Ciência da Computação 
